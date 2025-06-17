@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Parag Bharne
 
-🚀 A passionate **DevOps Engineer** from Pune, India — and an **ex-Microsoft Certified Trainer (MCT)** — with a strong foundation in cloud-native, secure, and automated infrastructure across Azure, AWS, and GCP. With over 7 years of experience, I specialize in DevOps automation, CI/CD pipelines, Kubernetes (AKS), and enterprise-grade cloud solutions, especially in uptime-critical financial domains.
+🚀 A passionate **DevOps Engineer** from Pune, India — and an **ex-Microsoft Certified Trainer (MCT)** — with a strong foundation in cloud-native, secure, and automated infrastructure across Azure, AWS, and GCP. With over 9 years of experience, I specialize in DevOps automation, CI/CD pipelines, Kubernetes (AKS), and enterprise-grade cloud solutions, especially in uptime-critical financial domains.
 
 ---
 
